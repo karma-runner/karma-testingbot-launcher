@@ -18,7 +18,7 @@
   "author": "TestingBot <info@testingbot.com>",
   "dependencies": {
     "q": "^1.4.1",
-    "testingbot-tunnel-launcher": "",
+    "testingbot-tunnel-launcher": "1.1.1",
     "testingbot-api": "",
     "wd": "^1.1.3"
   },
